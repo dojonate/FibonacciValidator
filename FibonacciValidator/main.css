@@ -1,0 +1,12 @@
+﻿body {
+    padding-left:50px;
+    padding-top:50px;
+}
+#inputLabel{
+    padding-left:50px;
+}
+
+.validators {
+    color:red;
+    text-decoration:underline;
+}
