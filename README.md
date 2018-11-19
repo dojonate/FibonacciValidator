@@ -3,7 +3,7 @@ This is a homework assignment to create a basic webpage and demonstrate breakpoi
 
 MIT License
 
-Copyright (c) 2017 Nathan John Dill
+Copyright (c) 2018 Nathan John Dill
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
